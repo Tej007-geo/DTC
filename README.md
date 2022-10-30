@@ -1,2 +1,0 @@
-# DTC
-company name
